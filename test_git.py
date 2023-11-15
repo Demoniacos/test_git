@@ -7,5 +7,6 @@ def calculator(a,b):
 def minus(a,b):
     return a-b
 
-
+def and_new():
+    pass
 main()
