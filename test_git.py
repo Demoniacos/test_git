@@ -11,4 +11,6 @@ def and_new():
     pass
 def and_new2():
     pass
+def and_new3():
+    pass
 main()
